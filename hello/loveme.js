@@ -63,7 +63,7 @@ window.onload = function () {
 };
 
 function yesClick() {
-    alert("love love love");
+    alert("Nhậu nhẹt hư người lắm hihi!!!");
 }
 
 function noHover() {
